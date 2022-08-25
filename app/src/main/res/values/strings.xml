@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MacroPay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Email">E-mail</string>
+    <string name="required">Required</string>
+    <string name="PassWord">Password</string>
+    <string name="Login">Login</string>
+</resources>
